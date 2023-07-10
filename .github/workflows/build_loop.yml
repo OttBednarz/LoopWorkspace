@@ -42,11 +42,7 @@ jobs:
           dexcom_sage \
           dexcom_upload_readings \
           future_carbs_4h \
-          low_carb_limit \
-          high_carb_limit \
           override_sens \
-          limit_loop_cycle_time \
-          lnl_icon \
           customtypeone_looppatches \
           2002 \
           algorithm_experiments
